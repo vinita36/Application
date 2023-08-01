@@ -1,0 +1,1 @@
+// Accept N number from user and accept range Display all elements from that range
